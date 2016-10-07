@@ -1,2 +1,7 @@
 elpa
 /projectile-bookmarks.eld
+bookmarks
+eshell
+projectile.cache
+.python-environments
+
